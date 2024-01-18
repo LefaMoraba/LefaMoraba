@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lefamoraba&label=Profile%20views&color=0e75b6&style=flat" alt="lefamoraba" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes, Jenkins**
+- 🌱 I’m currently learning **React, Kubernetes, Jenkins and AWS**
 
-- 📫 How to reach me **lefamoraba5751@gmail.com**
+- 📫 You can contact me at **lefamoraba5751@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
